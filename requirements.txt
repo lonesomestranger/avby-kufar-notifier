@@ -1,0 +1,10 @@
+aiogram
+sqlalchemy
+aiosqlite
+curl_cffi
+beautifulsoup4
+apscheduler
+greenlet
+pydantic
+pydantic-settings
+google-generativeai
